@@ -8,7 +8,7 @@ sim.dt = 0.01
 
 m_star = 0.24119      #4.797e29 kg
 m_paveiha = 9.4218e-7 #1.874e24 kg 
-m_jeah = 2.474e-9     #4.921e21 kg
+m_     #4.921e21 kg
 
 a_paveiha = 0.07 # AU
 a_jeah = 0.000122 # AU;relative to paveiha
